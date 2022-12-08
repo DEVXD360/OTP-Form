@@ -14,7 +14,7 @@ I create this project to master my HTML and CSS skills and made a simpler and be
 ### I build the project using :
 
 - ### HTML
-- HTML technology is responsible for the structuring and placement of the data. 
+-- HTML technology is responsible for the structuring and placement of the data. 
 - It covers the way content is organized and where it is positioned on the page. It is the backbone.
 
 - ### CSS 
