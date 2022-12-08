@@ -21,6 +21,9 @@ I create this project to master my HTML and CSS skills and made a simpler and be
  - CSS is responsible for the representation of the data. 
  - It includes colors, fonts, background stuff, peculiarities of a layout, etc.
 
+### JavaScript
+If you want to add some interactivity, choose JavaScript. These things are controlled via libraries (such as jQuery, React.js, or Zepto.js) fitted into frameworks (for example, Ember, Backbone, or Angular).
+
 ## Contributing
 𝐈𝐟 𝐲𝐨𝐮 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐭𝐨 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐝𝐨 𝐢𝐭 𝐜𝐨𝐧𝐬𝐢𝐝𝐞𝐫𝐢𝐧𝐠 𝐭𝐡𝐞𝐬𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐩𝐨𝐢𝐧𝐭𝐬:
 
