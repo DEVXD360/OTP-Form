@@ -1,4 +1,4 @@
-# OTP-Form
+# Verify Account: UI
 One-time Passwords (OTP) is a password that is valid for only one login session or transaction on a computer or a digital device. Nowadays OTP’s are used in almost every service like Internet Banking, online transactions, etc. They are generally a combination of 4 or 6 numeric digits or a 6-digit alphanumeric.
 
 
